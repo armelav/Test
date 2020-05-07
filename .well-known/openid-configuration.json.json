@@ -7,7 +7,7 @@
     "openid",
     "accounts"
   ],
-  "issuer": "https://tpp-train.hl.co.uk/auth/oauth2/tpp",
+  "issuer": "https://vmtrainig01.hargreaveslansdown.co.uk/auth/oauth2/tpp",
   "id_token_encryption_enc_values_supported": [
     "A256GCM",
     "A192GCM",
