@@ -54,7 +54,7 @@
     "client_secret_basic"
   ],
   "tls_client_certificate_bound_access_tokens": true,
-  "token_endpoint": "https://vmtrainig01.hargreaveslansdown.co.uk/auth/oauth2/tpp/access_token",
+  "token_endpoint": "https://tpp-train.hl.co.uk/auth/oauth2/tpp/access_token",
   "response_types_supported": [
     "code",
     "code id_token",
