@@ -108,7 +108,7 @@
     "dir",
     "A192KW"
   ],
-  "jwks_uri": "https://tpp-train.hl.co.uk/auth/oauth2/tpp/connect/jwk_uri",
+  "jwks_uri": "https://raw.githubusercontent.com/armelav/Test/master/keys.json",
   "subject_types_supported": [
     "pairwise"
   ],
