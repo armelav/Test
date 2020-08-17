@@ -102,7 +102,7 @@
     "dir",
     "A192KW"
   ],
-  "jwks_uri": "https://raw.githubusercontent.com/armelav/Test/master/keys.json",
+  "jwks_uri": "https://keystore.openbankingtest.org.uk/0015800001ZEc2uAAD/yQmdxQF5l5nR3TxxmuTJTW.jwks",
   "subject_types_supported": [
     "pairwise"
   ],
